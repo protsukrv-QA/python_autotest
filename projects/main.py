@@ -1,5 +1,5 @@
 import requests
-token = "4c258785bdf3a35c0282c16a9c2f87b2"
+token = "trainer_token"
 data_new_poke={
       "name": "Бульбазавр",
         "photo": "https://dolnikov.ru/pokemons/albums/001.png"
